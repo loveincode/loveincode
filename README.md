@@ -1,19 +1,11 @@
-<!--
-**loveincode 
+## Hi coder 👋 
+I'm loveincode (灵一), JavaCoder
 
-Here are some ideas to get you started:
+### Contact me 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-😁👻😈  _,--,    ☕️☕️☕️     _           灵一
-   __,-'____| ___      /' |     
- /'   `\,--,/'   `\  /'   |  代码搬砖工 java小菜鸡
-(  🌞   )  (  🌞   )'     
- \___ _/'  `\_ ___/      loveincode     蜀郡(成都)人
+1. **blogs**:[loveincode](https://www.cnblogs.com/loveincode/)
+2. **email**: huonevan@gmail.com
+3. **wechat**: 9088584
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=loveincode&show_icons=true&theme=dark)
