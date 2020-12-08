@@ -12,11 +12,11 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1575F9?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F05032?style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-F05032?style=flat-square&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-32CD32?style=flat-square&logo=Spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FA7343?style=flat-square&logo=Git&logoColor=white)
 ![Apple](https://img.shields.io/badge/MacBook_Pro-999999?style=flat-square&logo=Apple&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-007ACC?style=flat-square&logo=Atom&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google_Chrome-0078D7?style=flat-square&logo=Google-Chrome&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-90EE90?style=flat-square&logo=Atom&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google_Chrome-F7DF1E?style=flat-square&logo=Google-Chrome&logoColor=white)
 
 
 ### My GitHub Stats
