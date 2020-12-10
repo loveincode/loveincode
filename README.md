@@ -45,10 +45,10 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-88C600?style=flat-square&logo=Microsoft&logoColor=white)
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-F48023?style=flat-square&logo=stackoverflow&logoColor=white)
 ![Youtube](https://img.shields.io/badge/Youtube-FFFEFE?style=flat-square&logo=Youtube&logoColor=FE0000)
-![instagram](https://img.shields.io/badge/instagram-FFFEFE?style=flat-square&logo=instagram&logoColor=E735A3)
-![bilibili](https://img.shields.io/badge/bilibili-FFFEFE?style=flat-square&logo=bilibili&logoColor=00B1FD)
 ![xbox](https://img.shields.io/badge/xbox-88C600?style=flat-square&logo=xbox&logoColor=white)
+![instagram](https://img.shields.io/badge/instagram-FFFEFE?style=flat-square&logo=instagram&logoColor=E735A3)
 ![Nintendo-Switch](https://img.shields.io/badge/Nintendo_Switch-00BDE2?style=flat-square&logo=Nintendo-Switch&logoColor=white)
+![bilibili](https://img.shields.io/badge/bilibili-FFFEFE?style=flat-square&logo=bilibili&logoColor=00B1FD)
 
 ### My GitHub Stats
 
