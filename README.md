@@ -20,6 +20,7 @@
 ![RokectMQ](https://img.shields.io/badge/RokectMQ-024256?style=flat-square&logo=rocketmq&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-17161B?style=flat-square&logo=Linux&logoColor=white)
 ![apache](https://img.shields.io/badge/Apache-32CD32?style=flat-square&logo=apache&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1575F9?style=flat-square&logo=Go&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-FA7343?style=flat-square&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1575F9?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
