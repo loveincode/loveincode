@@ -45,6 +45,8 @@
 
 ![loveincode's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveincode&show_icons=true&theme=tokyonight)
 
+![Snake animation](https://github.com/loveincode/loveincode/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
